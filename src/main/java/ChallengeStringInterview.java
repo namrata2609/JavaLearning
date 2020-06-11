@@ -1,4 +1,4 @@
-public class Challenge1 {
+public class ChallengeStringInterview {
 
     public static void findNumberOfVowelsAndConsonant(String input){
         int noOfVowels = 0;
